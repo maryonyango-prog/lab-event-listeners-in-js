@@ -2,7 +2,7 @@
 
 // Function to change the background color when a button is clicked
 function changeBackgroundColor() {
-   document.body.style.backgroundColor = 'rgb(204, 52, 90, 1)';
+   document.body.style.backgroundColor = 'rgb(255, 255, 255)';
   // Implement the function to change background color
 }
 
